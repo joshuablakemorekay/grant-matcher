@@ -21,7 +21,7 @@ Each prompt directory contains the reasoning behind it and an executable evaluat
 
 ### [`app-concept-platform-choice`](./app-concept-platform-choice/)
 
-The whole project started with a single instinctive question before any code was written: *"Would this be better done on Claude Chat, Claude Cowork or Claude Code?"* This prompt shows a beginner developer asking the right question even without knowing to call it architecture planning. The short prompt generated a full scoping conversation — Claude responded with options and three Q&A questions that shaped the entire build.
+The whole project started with a single instinctive question before any code was written: *"Would this be better done on Claude Chat, Claude Cowork or Claude Code?"* This prompt shows a developer asking the right question even without knowing to call it architecture planning. The short prompt generated a full scoping conversation — Claude responded with options and three Q&A questions that shaped the entire build.
 
 ### [`app-build-initial`](./app-build-initial/)
 
