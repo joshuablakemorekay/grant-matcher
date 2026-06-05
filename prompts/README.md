@@ -1,6 +1,6 @@
 # Prompt Library — Grant Matcher Pro
 
-[![Prompt Eval](https://github.com/MungManBaoIsan/grant-matcher/actions/workflows/prompt-eval.yml/badge.svg)](https://github.com/MungManBaoIsan/grant-matcher/actions/workflows/prompt-eval.yml)
+[![Prompt Eval](https://github.com/joshuablakemorekay/grant-matcher/actions/workflows/prompt-eval.yml/badge.svg)](https://github.com/joshuablakemorekay/grant-matcher/actions/workflows/prompt-eval.yml)
 
 This folder documents the prompts used to build Grant Matcher Pro. It exists as portfolio evidence of prompt engineering, evaluation, and iteration — not as runtime configuration.
 

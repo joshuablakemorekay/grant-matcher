@@ -2,9 +2,9 @@
 
 A smart web app that helps charities and community organisations discover relevant UK grant funding opportunities — and see exactly how well they match.
 
-**Live app:** [https://mungmanbaoisan.github.io/grant-matcher/](https://mungmanbaoisan.github.io/grant-matcher/)
-**GitHub:** [https://github.com/MungManBaoIsan/grant-matcher](https://github.com/MungManBaoIsan/grant-matcher)
-**Prompt library:** [https://github.com/MungManBaoIsan/grant-matcher/tree/main/prompts](https://github.com/MungManBaoIsan/grant-matcher/tree/main/prompts)
+**Live app:** [https://joshuablakemorekay.github.io/grant-matcher/](https://joshuablakemorekay.github.io/grant-matcher/)
+**GitHub:** [https://github.com/joshuablakemorekay/grant-matcher](https://github.com/joshuablakemorekay/grant-matcher)
+**Prompt library:** [https://github.com/joshuablakemorekay/grant-matcher/tree/main/prompts](https://github.com/joshuablakemorekay/grant-matcher/tree/main/prompts)
 
 ## What It Does
 
@@ -24,10 +24,10 @@ A smart web app that helps charities and community organisations discover releva
 
 ## How to Run It
 
-1. Visit the live app: [https://mungmanbaoisan.github.io/grant-matcher/](https://mungmanbaoisan.github.io/grant-matcher/)
+1. Visit the live app: [https://joshuablakemorekay.github.io/grant-matcher/](https://joshuablakemorekay.github.io/grant-matcher/)
 2. Or clone it locally:
    ```
-   git clone https://github.com/MungManBaoIsan/grant-matcher.git
+   git clone https://github.com/joshuablakemorekay/grant-matcher.git
    ```
 3. Open `index.html` in your browser — no setup or build process needed
 
